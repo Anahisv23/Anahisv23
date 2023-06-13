@@ -1,7 +1,7 @@
 <h2>Hello there, my name is Anahis Valenzuela! I'm a Full Stack Software Engineer 👋</h2>
 
 <ul>
-<li>👩🏻‍💻 I’m currently working on a to do list web application using Javascript and React</li>
+<li>👩🏻‍💻 I’m currently working on features on a dev friend's web application using the Javascript PERN stack </li>
 <li>🌱 I’m currently practicing Algorithms and Data Structures on Algo Expert, LeetCode, and PRAMP</li>
 <li>📧 How to reach me: anahisvq7@gmail.com</li>
 <li>😊 Pronouns: She/Her/Ella</li>
