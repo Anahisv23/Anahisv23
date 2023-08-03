@@ -1,11 +1,11 @@
 <h2>Hello there, my name is Anahis! I'm a Software Engineer 👋</h2>
 
 <ul>
-<li>👩🏻‍💻 I’m currently learning TypeScript!</li>
-<li>🌱 I am also practicing Algorithms and Data Structures on Algo Expert, LeetCode, and PRAMP</li>
+<li>👩🏻‍💻 I’m currently honing my PERN stack knowledge by building web apps.</li>
+<li>🌱 I am also practicing Algorithms and Data Structures on Algo Expert, LeetCode, Hacker Rank and PRAMP</li>
 <li>📧 How to reach me: anahisvq7@gmail.com</li>
 <li>😊 Pronouns: She/Her/Ella</li>
-<li>✨ Fun fact: When I'm not coding I love to do yoga, play animal crossing, or go on nature walks</li>
+<li>✨ Fun fact: When I'm not coding I enjoy yoga, playing animal crossing, or going on walks or runs</li>
 </ul>
 
 <h3>Technologies and Tools🛠</h3>
