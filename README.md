@@ -11,6 +11,7 @@
 <h3>Technologies</h3>
 
 <h4>Frontend Technologies </h4>
+
 ![Javascript](https://img.shields.io/badge/-Javascript-yellow?) 
 ![React](https://img.shields.io/badge/-React-blue?) 
 ![Redux](https://img.shields.io/badge/-Redux-blueviolet?)
@@ -20,6 +21,7 @@
 
 
 <h4>Backend Technolgies</h4>
+
 ![Javascript](https://img.shields.io/badge/-Javascript-yellow?) 
 ![Node](https://img.shields.io/badge/-Node-yellowgreen?) 
 ![Express](https://img.shields.io/badge/-Express-critical?) 
@@ -27,6 +29,7 @@
 ![Sequelize](https://img.shields.io/badge/-Sequelize-blue?) 
 
 <h3>Tools</h3>
+
 ![Figma](https://img.shields.io/badge/-Figma-pink?) 
 ![Chrome Developer Tools](https://img.shields.io/badge/-Chrome Dev Tools-green?) 
 ![Postman](https://img.shields.io/badge/-Postman-green?) 
