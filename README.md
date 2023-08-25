@@ -27,7 +27,7 @@
 ![Express](https://img.shields.io/badge/-Express-critical?) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?) 
 ![Sequelize](https://img.shields.io/badge/-Sequelize-blue?) 
-![RESTfulAPI](https://img.shields.io/badge/-RESTfulAPI-blueviolet?) 
+![RESTfulAPI](https://img.shields.io/badge/-RESTfulAPI-critical?) 
 
 <h3>Tools</h3>
 
