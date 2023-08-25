@@ -10,15 +10,19 @@
 
 <h3>Technologies and Tools</h3>
 
-![github](https://img.shields.io/badge/-GitHub-green?)
+Frontend Technologies 
 ![Javascript](https://img.shields.io/badge/-Javascript-yellow?)
-![Express](https://img.shields.io/badge/-Express-critical?)
 ![React](https://img.shields.io/badge/-React-blue?)
-![Node](https://img.shields.io/badge/-Node-yellowgreen?)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?)
 ![Redux](https://img.shields.io/badge/-Redux-blueviolet?)
 ![HTML](https://img.shields.io/badge/-HTML-green?)
 ![CSS](https://img.shields.io/badge/-CSS-green?)
+
+Backend Technolgies 
+![Javascript](https://img.shields.io/badge/-Javascript-yellow?)
+![Node](https://img.shields.io/badge/-Node-yellowgreen?)
+![Express](https://img.shields.io/badge/-Express-critical?)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?)
+![Sequelize](https://img.shields.io/badge/-Sequelize-blue?)
 
 <h3>Portfolio</h3>
 <p>Checkout my work below👇</p>
