@@ -10,19 +10,24 @@
 
 <h3>Technologies and Tools</h3>
 
-Frontend Technologies 
-![Javascript](https://img.shields.io/badge/-Javascript-yellow?)
-![React](https://img.shields.io/badge/-React-blue?)
-![Redux](https://img.shields.io/badge/-Redux-blueviolet?)
-![HTML](https://img.shields.io/badge/-HTML-green?)
-![CSS](https://img.shields.io/badge/-CSS-green?)
+<h4>Frontend Technologies </h4>
+<ul>
+  
+<li> ![Javascript](https://img.shields.io/badge/-Javascript-yellow?) </li>
+<li> ![React](https://img.shields.io/badge/-React-blue?) </li> 
+<li> ![Redux](https://img.shields.io/badge/-Redux-blueviolet?)</li> 
+<li>  ![HTML](https://img.shields.io/badge/-HTML-green?) </li>
+<li>  ![CSS](https://img.shields.io/badge/-CSS-green?) </li>
+</ul>
 
-Backend Technolgies 
-![Javascript](https://img.shields.io/badge/-Javascript-yellow?)
-![Node](https://img.shields.io/badge/-Node-yellowgreen?)
-![Express](https://img.shields.io/badge/-Express-critical?)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?)
-![Sequelize](https://img.shields.io/badge/-Sequelize-blue?)
+<h4>Backend Technolgies</h4>
+<ul>
+<li> ![Javascript](https://img.shields.io/badge/-Javascript-yellow?) </li>
+<li> ![Node](https://img.shields.io/badge/-Node-yellowgreen?) </li>
+<li> ![Express](https://img.shields.io/badge/-Express-critical?) </li>
+<li> ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?) </li>
+<li> ![Sequelize](https://img.shields.io/badge/-Sequelize-blue?) </li>
+</ul>ul>
 
 <h3>Portfolio</h3>
 <p>Checkout my work below👇</p>
