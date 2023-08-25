@@ -9,6 +9,7 @@
 </ul>
 
 <h3>Technologies</h3>
+<hr></hr>
 
 <h4>Frontend Technologies✨</h4>
 
@@ -30,6 +31,7 @@
 ![RESTfulAPI](https://img.shields.io/badge/-RESTfulAPI-critical?) 
 
 <h3>Tools</h3>
+<hr></hr>
 
 ![Postman](https://img.shields.io/badge/-Postman-green?) 
 ![ThunderClient](https://img.shields.io/badge/-ThunderClient-green?) 
@@ -42,4 +44,5 @@
 ![Git](https://img.shields.io/badge/-Git-yellow?) 
 
 <h3>Checkout my Portfolio 💼 </h3>
+<hr></hr>
 https://anahis-valenzuela-portfolio.onrender.com/
