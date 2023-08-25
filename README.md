@@ -17,8 +17,8 @@
 ![Node](https://img.shields.io/badge/-Node-yellowgreen?)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?)
 ![Redux](https://img.shields.io/badge/-Redux-blueviolet?)
-![HTML](https://img.shields.io/badge/-HTML-9cf?)
-![CSS](https://img.shields.io/badge/-CSS-9cf?)
+![HTML](https://img.shields.io/badge/-HTML-green?)
+![CSS](https://img.shields.io/badge/-CSS-green?)
 
 <h3>Portfolio</h3>
 <p>Checkout my work below👇</p>
