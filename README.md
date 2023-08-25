@@ -10,7 +10,7 @@
 
 <h3>Technologies and Tools</h3>
 
-![github](https://img.shields.io/badge/-GitHub-green?)
+![github](https://img.shields.io/badge/-GitHub-dark-green?)
 ![Javascript](https://img.shields.io/badge/-Javascript-yellow?)
 ![Express](https://img.shields.io/badge/-Express-critical?)
 ![React](https://img.shields.io/badge/-React-blue?)
