@@ -34,9 +34,9 @@
 ![Postman](https://img.shields.io/badge/-Postman-green?) 
 ![ThunderClient](https://img.shields.io/badge/-ThunderClient-green?) 
 ![Postico](https://img.shields.io/badge/-Postico-green?) 
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-green?) 
-![Webpack](https://img.shields.io/badge/-Figma-green?) 
-![Babel](https://img.shields.io/badge/-Babel-green?)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-blue?) 
+![Webpack](https://img.shields.io/badge/-Figma-pink?) 
+![Babel](https://img.shields.io/badge/-Babel-pink?)
 ![GitHub](https://img.shields.io/badge/-GitHub-yellow?) 
 ![Git](https://img.shields.io/badge/-Git-yellow?) 
 
