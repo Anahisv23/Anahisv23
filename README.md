@@ -37,6 +37,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-blue?) 
 ![Webpack](https://img.shields.io/badge/-Webpack-pink?) 
 ![Babel](https://img.shields.io/badge/-Babel-pink?)
+![Figma](https://img.shields.io/badge/-Figma-pink?)
 ![GitHub](https://img.shields.io/badge/-GitHub-yellow?) 
 ![Git](https://img.shields.io/badge/-Git-yellow?) 
 
