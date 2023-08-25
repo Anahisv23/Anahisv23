@@ -8,7 +8,7 @@
 <li>✨ Interests: Gardening, Mental Health + tech, Sustainability + tech, Psychology, Yoga</li>
 </ul>
 
-<h3>Technologies</h3>
+<h3>Technologies & tools</h3>
 <hr></hr>
 
 <h4>Frontend Technologies✨</h4>
@@ -30,8 +30,7 @@
 ![Sequelize](https://img.shields.io/badge/-Sequelize-blue?) 
 ![RESTfulAPI](https://img.shields.io/badge/-RESTfulAPI-critical?) 
 
-<h3>Tools</h3>
-<hr></hr>
+<h4>Tools</h4>
 
 ![Postman](https://img.shields.io/badge/-Postman-green?) 
 ![ThunderClient](https://img.shields.io/badge/-ThunderClient-green?) 
