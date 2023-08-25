@@ -1,6 +1,6 @@
-<h2>Hello there, I'm Anahis! I'm a Latina Software Engineer 👋</h2>
+<h2>Hello there, I'm Anahis! I'm a Software Engineer 👋</h2>
 
-<ul style={{listStyleType: "none"}}>
+<ul>
 <li>👩🏻‍💻 I’m currently honing my PERN stack knowledge by building web apps.</li>
 <li>🌱 I'm also practicing Algorithms and Data Structures on Algo Expert, LeetCode, Hacker Rank and PRAMP</li>
 <li>📧 How to reach me: anahisvq7@gmail.com</li>
@@ -10,7 +10,7 @@
 
 <h3>Technologies</h3>
 
-<h4>Frontend Technologies </h4>
+<h4>Frontend Technologies✨</h4>
 
 ![Javascript](https://img.shields.io/badge/-Javascript-yellow?) 
 ![React](https://img.shields.io/badge/-React-blue?) 
@@ -20,7 +20,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-yellow?) 
 
 
-<h4>Backend Technolgies</h4>
+<h4>Backend Technolgies✨</h4>
 
 ![Javascript](https://img.shields.io/badge/-Javascript-yellow?) 
 ![Node](https://img.shields.io/badge/-Node-yellowgreen?) 
@@ -39,6 +39,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-yellow?) 
 ![Git](https://img.shields.io/badge/-Git-yellow?) 
 
-<h3>Portfolio</h3>
-<p>Checkout my work below👇</p>
+<h3>Checkout my Portfolio 💼 </h3>
 https://anahis-valenzuela-portfolio.onrender.com/
