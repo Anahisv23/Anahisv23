@@ -1,6 +1,6 @@
 <h2>Hello there, I'm Anahis! I'm a Latina Software Engineer 👋</h2>
 
-<ul>
+<ul style={{listStyleType: "none"}}>
 <li>👩🏻‍💻 I’m currently honing my PERN stack knowledge by building web apps.</li>
 <li>🌱 I'm also practicing Algorithms and Data Structures on Algo Expert, LeetCode, Hacker Rank and PRAMP</li>
 <li>📧 How to reach me: anahisvq7@gmail.com</li>
@@ -30,12 +30,11 @@
 
 <h3>Tools</h3>
 
-![Figma](https://img.shields.io/badge/-Figma-pink?) 
 ![Postman](https://img.shields.io/badge/-Postman-green?) 
 ![ThunderClient](https://img.shields.io/badge/-ThunderClient-green?) 
 ![Postico](https://img.shields.io/badge/-Postico-green?) 
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-blue?) 
-![Webpack](https://img.shields.io/badge/-Figma-pink?) 
+![Webpack](https://img.shields.io/badge/-Webpack-pink?) 
 ![Babel](https://img.shields.io/badge/-Babel-pink?)
 ![GitHub](https://img.shields.io/badge/-GitHub-yellow?) 
 ![Git](https://img.shields.io/badge/-Git-yellow?) 
