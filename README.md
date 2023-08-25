@@ -8,8 +8,7 @@
 <li>✨ Interests: Gardening, Mental Health + tech, Sustainability + tech, Psychology, Yoga</li>
 </ul>
 
-<h3>Technologies & tools</h3>
-<hr></hr>
+<h2>Technologies & tools</h2>
 
 <h4>Frontend Technologies✨</h4>
 
@@ -42,6 +41,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-yellow?) 
 ![Git](https://img.shields.io/badge/-Git-yellow?) 
 
-<h3>Checkout my Portfolio 💼 </h3>
-<hr></hr>
+<h2>Checkout my Portfolio 💼 </h2>
 https://anahis-valenzuela-portfolio.onrender.com/
