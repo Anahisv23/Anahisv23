@@ -29,7 +29,7 @@
 ![Sequelize](https://img.shields.io/badge/-Sequelize-blue?) 
 ![RESTfulAPI](https://img.shields.io/badge/-RESTfulAPI-critical?) 
 
-<h4>Tools</h4>
+<h4>Tools✨</h4>
 
 ![Postman](https://img.shields.io/badge/-Postman-green?) 
 ![ThunderClient](https://img.shields.io/badge/-ThunderClient-green?) 
