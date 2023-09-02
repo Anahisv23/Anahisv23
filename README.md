@@ -31,7 +31,6 @@
 
 <h4>Tools✨</h4>
 
-![Postman](https://img.shields.io/badge/-Postman-green?) 
 ![ThunderClient](https://img.shields.io/badge/-ThunderClient-green?) 
 ![Postico](https://img.shields.io/badge/-Postico-green?) 
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-blue?) 
