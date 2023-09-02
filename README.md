@@ -2,9 +2,9 @@
 
 <ul>
 <li>👩🏻‍💻 I’m currently honing my PERN stack knowledge by building web apps.</li>
-<li>🌱 I'm also practicing Algorithms and Data Structures on Algo Expert, LeetCode, Hacker Rank and PRAMP</li>
+<li>🌱 I'm also practicing algorithms and data structures on Algo Expert, LeetCode, Hacker Rank and PRAMP</li>
 <li>📧 How to reach me: anahisvq7@gmail.com</li>
-<li>😊 Pronouns: She/Her/Ella</li>
+<li>😊 Pronouns: She/her/ella</li>
 <li>✨ Interests: Gardening, Mental Health + Tech, Sustainability +Ttech, Psychology, Yoga</li>
 </ul>
 
