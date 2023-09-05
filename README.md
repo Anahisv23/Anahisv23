@@ -5,7 +5,7 @@
 <li>🌱 I'm also practicing algorithms and data structures on Algo Expert, LeetCode, Hacker Rank and PRAMP</li>
 <li>📧 How to reach me: anahisvq7@gmail.com</li>
 <li>😊 Pronouns: She/her/ella</li>
-<li>✨ Interests: Gardening, Mental Health + Tech, Sustainability +Ttech, Psychology, Yoga</li>
+<li>✨ Interests: Gardening, Mental Health + Tech, Sustainability +Tech, Psychology, Yoga</li>
 </ul>
 
 <h2>Technologies & tools</h2>
