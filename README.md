@@ -41,5 +41,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-yellow?) 
 ![Git](https://img.shields.io/badge/-Git-yellow?) 
 
-<h2>Check out my Portfolio 💼 </h2>
+<h2>Check out my Portfolio💼 </h2>
 https://anahis-valenzuela-portfolio.onrender.com/
