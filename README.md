@@ -1,4 +1,4 @@
-<h2>Hello there, I'm Anahis! I'm a Software Engineer 👋</h2>
+<h2>Hello there, I'm Anahis! I'm a Latina Software Engineer 👋</h2>
 
 <ul>
 <li>👩🏻‍💻 I’m currently honing my React skills by building a frontend product catalog called Plant Place.</li>
