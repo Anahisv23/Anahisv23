@@ -1,8 +1,8 @@
 <h2>Hello there, I'm Anahis! I'm a Software Engineer 👋</h2>
 
 <ul>
-<li>👩🏻‍💻 I’m currently honing my PERN stack knowledge by building web apps.</li>
-<li>🌱 I'm also practicing algorithms and data structures on Algo Expert, LeetCode, Hacker Rank and PRAMP</li>
+<li>👩🏻‍💻 I’m currently honing my React skills by building a frontend product catalog called Plant Place.</li>
+<li>🌱 I'm also practicing algorithms and data structures on Algo Expert, LeetCode, and Hacker Rank</li>
 <li>📧 How to reach me: anahisvq7@gmail.com</li>
 <li>😊 Pronouns: She/her/ella</li>
 <li>✨ Interests: Gardening, Mental Health + Tech, Sustainability + Tech, Psychology, Yoga</li>
