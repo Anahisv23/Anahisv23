@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Anahis Valenzuela</h1>
-<h3 align="center">A passionate Software Developer from Southern Calfornia🌞</h3>
+<h3 align="center">A passionate Software Developer from Southern California 🌞</h3>
 
 - 🔭 I’m currently working on [a menstrual cycle tracker web application.](https://github.com/irais-valenzuela/cycle-planner-app)
 
