@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anahis Valenzuela</h1>
-<h3 align="center">A passionate software developer from southern calfornia</h3>
+<h1 align="center">Hello 👋, I'm Anahis Valenzuela</h1>
+<h3 align="center">A passionate Software Developer from Southern Calfornia🌞</h3>
 
 - 🔭 I’m currently working on [a menstrual cycle tracker web application.](https://github.com/irais-valenzuela/cycle-planner-app)
 
@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://anahis-valenzuela-portfolio.onrender.com/](https://anahis-valenzuela-portfolio.onrender.com/)
 
-- 💬 Ask me about **My web development applications,coding bootcamp experience,and how I use my psychology background to create user centric and intuitive web applications.**
+- 💬 Ask me about **My web development applications, coding bootcamp experience, and how I use my psychology background to create user centric and intuitive web applications.**
 
 - 📫 How to reach me **anahisvq7@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1X_uaXw-0Pv3rmViYfG4fg2_GYDlVAUDS/edit?usp=sharing&ouid=104164520266168029763&rtpof=true&sd=true](https://docs.google.com/document/d/1X_uaXw-0Pv3rmViYfG4fg2_GYDlVAUDS/edit?usp=sharing&ouid=104164520266168029763&rtpof=true&sd=true)
+- 📄 Resume [https://docs.google.com/document/d/1X_uaXw-0Pv3rmViYfG4fg2_GYDlVAUDS/edit?usp=sharing&ouid=104164520266168029763&rtpof=true&sd=true](https://docs.google.com/document/d/1X_uaXw-0Pv3rmViYfG4fg2_GYDlVAUDS/edit?usp=sharing&ouid=104164520266168029763&rtpof=true&sd=true)
 
 - ⚡ Interests **Gardening, Mental Health + Tech, Sustainability + Tech, Psychology, Yoga**
 
