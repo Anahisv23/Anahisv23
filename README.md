@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a menstrual cycle tracker web application.](https://github.com/irais-valenzuela/cycle-planner-app)
 
-- 📚 I'm currently learning **TypeScript**
+- 📚 I'm currently learning **TypeScript and tailwindCSS**
 
 - 👨‍💻 All of my projects are available at [https://anahis-valenzuela-portfolio.onrender.com/](https://anahis-valenzuela-portfolio.onrender.com/)
 
