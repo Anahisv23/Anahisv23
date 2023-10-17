@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Anahis Valenzuela</h1>
 <h3 align="center">A passionate Software Developer from Southern California 🌞</h3>
 
-- 🔭 I’m currently working on [a menstrual cycle tracker/planner web app.](https://github.com/irais-valenzuela/cycle-planner-app)
+- 🔭 I’m currently working on [a menstrual cycle tracker/planner web application.](https://github.com/irais-valenzuela/cycle-planner-app)
 
 - 📚 I'm currently learning **TypeScript and tailwindCSS**
 
