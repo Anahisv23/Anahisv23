@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Anahis Valenzuela</h1>
 <h3 align="center">A passionate Software Developer from Southern California 🌞</h3>
 
-- 🔭 I’m currently volunteering for Hack for LA as Software Engineer and working on [a menstrual cycle tracker/planner web application.](https://github.com/irais-valenzuela/cycle-planner-app)
+- 🔭 I’m currently volunteering for Hack for LA as a Software Engineer and working on [a menstrual cycle tracker/planner web application.](https://github.com/irais-valenzuela/cycle-planner-app)
 
-- 📚 I'm currently learning working on data structures/algorithms on leetcode and algo expert**
+- 📚 I'm currently working on data structures/algorithms on leetcode and algo expert**
 
 - 👨‍💻 All of my projects are available at [https://anahis-valenzuela-portfolio.onrender.com/](https://anahis-valenzuela-portfolio.onrender.com/)
 
