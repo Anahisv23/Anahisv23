@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently volunteering for Hack for LA as a Full Stack Software Engineer and working on frontend and backend challenges.
 
-- 📚 I'm currently working on data structures/algorithms on Leetcode and Algo Expert**
+- 📚 I'm currently working on data structures/algorithms on Leetcode**
 
 - 👨‍💻 All of my projects are available at [https://anahis-valenzuela-portfolio.onrender.com/](https://anahis-valenzuela-portfolio.onrender.com/)
 
-- 💬 Ask me about **My web development applications, coding bootcamp experience, and how I use my psychology background to create user centric and intuitive web applications.**
+- 💬 Ask me about **My web development applications, coding bootcamp experience, Hack for LA, and how I use my psychology background to create user centric and intuitive web applications.**
 
 - 📫 How to reach me **anahisvq7@gmail.com**
 
