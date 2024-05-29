@@ -1,5 +1,5 @@
 <h1>Hi, I'm Anna Valenzuela</h1>
-<h3>A passionate Software Developer and Email Developer from Southern California 🌞</h3>
+<h3>A passionate Software Developer and Email Developer from California 🌞</h3>
 
 - 🔭 I’m currently working at Hack for LA as a Full Stack Software Engineer.
 
