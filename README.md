@@ -9,7 +9,7 @@
 
 - 📄 Resume [https://docs.google.com/document/d/1X_uaXw-0Pv3rmViYfG4fg2_GYDlVAUDS/edit?usp=sharing&ouid=104164520266168029763&rtpof=true&sd=true](https://docs.google.com/document/d/1X_uaXw-0Pv3rmViYfG4fg2_GYDlVAUDS/edit?usp=sharing&ouid=104164520266168029763&rtpof=true&sd=true)
 <h3>Interests ⚡</h3>
-Gardening 🌱 | Sustainability + Tech 🌎 | Health + Tech ⚕️ | Mental Health + Tech 🗣 | Psychology 🧠 | Marketing + Tech 📉
+| Sustainability + Tech 🌎 | Health + Tech ⚕️ | Mental Health + Tech 🗣 | Psychology 🧠 | Marketing + Tech 📉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
