@@ -1,7 +1,7 @@
 <h1>Hello there, I'm Anna Valenzuela</h1>
-<h3>A passionate Software Engineer from California 🌞</h3>
+<h3>A QA Engineer/Software Engineer from California 🌞</h3>
 
-- 🔭 I’m currently working at Cosm as a QA Engineer Intern
+- 🔭 I’m currently working at Cosm as a Senior QA Engineer Intern
 
 - 👨‍💻 All of my projects are available at [https://anahis-valenzuela-portfolio.onrender.com/](https://anahis-valenzuela-portfolio.onrender.com/)
 
@@ -9,7 +9,7 @@
 
 - 📄 Resume [https://docs.google.com/document/d/1X_uaXw-0Pv3rmViYfG4fg2_GYDlVAUDS/edit?usp=sharing&ouid=104164520266168029763&rtpof=true&sd=true](https://docs.google.com/document/d/1X_uaXw-0Pv3rmViYfG4fg2_GYDlVAUDS/edit?usp=sharing&ouid=104164520266168029763&rtpof=true&sd=true)
 <h3>Interests ⚡</h3>
-| Sustainability + Tech 🌎 | Health + Tech ⚕️ | Mental Health + Tech 🗣 | Psychology 🧠 | Marketing + Tech 📉
+Sustainability + Tech 🌎 | Health + Tech ⚕️ | Mental Health + Tech 🗣 | Entertainment ⭐️ | Psychology 🧠 |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
