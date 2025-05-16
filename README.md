@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **anahisvq7@gmail.com**
 
-- 📄 Resume [https://docs.google.com/document/d/1X_uaXw-0Pv3rmViYfG4fg2_GYDlVAUDS/edit?usp=sharing&ouid=104164520266168029763&rtpof=true&sd=true](https://docs.google.com/document/d/1X_uaXw-0Pv3rmViYfG4fg2_GYDlVAUDS/edit?usp=sharing&ouid=104164520266168029763&rtpof=true&sd=true)
 <h3>Interests ⚡</h3>
 Sustainability + Tech 🌎 | Health + Tech ⚕️ | Mental Health + Tech 🗣 | Entertainment ⭐️ | Psychology 🧠 |
 
