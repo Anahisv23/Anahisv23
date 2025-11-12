@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Anna Valenzuela</h1>
-<h3>QA Automation Engineer / Software Engineer from California 🌞</h3>
+<h3>Quality Assurance Engineer / Software Engineer from California 🌞</h3>
 
 - 🔭 I’m currently working at Cosm as a Senior QA Engineer Intern
 
