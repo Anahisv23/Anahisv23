@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Anna Valenzuela</h1>
 <h3>Quality Assurance Engineer / Software Engineer from California 🌞</h3>
 
-- 🔭 I’m currently working at Cosm as a Senior QA Engineer Intern
+- 🔭 I’m currently working at AXS as a Software Quality Analyst
 
 - 👨‍💻 All of my projects are available at [https://anahis-valenzuela-portfolio.onrender.com/](https://anahis-valenzuela-portfolio.onrender.com/)
 
